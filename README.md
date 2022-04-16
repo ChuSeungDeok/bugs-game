@@ -1,6 +1,6 @@
 ## bugs-game
 사이트 : [BUGS-GAME](https://chuseungdeok.github.io/bugs-game/)
-
+---
 게임소개 : 
 1. 게임시작 :
 게임 플레이 버튼을 누르면 게임을 시작합니다.
@@ -22,3 +22,11 @@
 4. 성공시 : 당근을 제한시간내에 모두 찾으면 게임에서 승리
 
 ![image](https://user-images.githubusercontent.com/101231647/163674531-8d98e0a7-beaa-40a8-a911-7c72bcbdaf11.png)
+
+---
+## 사용 기술
+1. javascript
+2. html
+3. css
+
+
